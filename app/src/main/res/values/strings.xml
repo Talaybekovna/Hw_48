@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hw_48</string>
+    <string name="title">Creation of resources for localization and hardware configurations</string>
+    <string name="text">The use of resources allows you to use the mechanism of dynamic selection of the desired resource in the program. You can define a specific directory structure in a project to create resources for specific languages, regions, and hardware configurations. During the execution of the program, Android will select the desired values for the specific users phone. You can specify alternative values ​​by creating your own directory structures within the res directory using a hyphen (-).</string>
+</resources>
